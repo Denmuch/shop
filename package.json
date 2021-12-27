@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "16.x",
+    "node": "14.x",
     "npm": "8.x"
   },
   "dependencies": {
@@ -17,8 +17,7 @@
     "redux-logger": "3.0.6",
     "reselect": "4.0.0",
     "redux-persist": "^6.0.0",
-    "react-stripe-checkout": "2.6.3",
-    "grpc": "1.24.11"
+    "react-stripe-checkout": "2.6.3"
   },
   "devDependencies": {
     "react-scripts": "3.0.0"
